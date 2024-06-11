@@ -1,4 +1,7 @@
-### Hello world this  is read
+### This is the fun repo learning Azure-VM
+## 🫨
+
+# Hello world this  is read
 
 
 ```py
