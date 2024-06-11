@@ -1,7 +1,7 @@
-### This is the fun repo learning Azure-VM
-## 🫨
+# This is the fun repo learning Azure-VM
+# 🫨
 
-# Hello world this  is read
+### Hello world this  is read
 
 
 ```py
